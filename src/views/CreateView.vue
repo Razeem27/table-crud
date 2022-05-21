@@ -4,6 +4,7 @@
       <div class="d-flex flex-column align-center">
         <h1 class="mb-15">Create New Student Data</h1>
          <v-avatar color="indigo" size="128">
+           <!-- icons -->
       <v-icon dark class="avatar-icon">
         mdi-account-circle
       </v-icon>
